@@ -1,0 +1,1211 @@
+{
+  "2026-01-01": {
+    "kahvalti": [
+      {
+        "category": "Kahvaltılık",
+        "name": "BEYAZ   PEYNİR(4)",
+        "calories": "120 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "SİYAH ZEYTİN/YEŞİL ZEYTİN",
+        "calories": "40 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "DOMATES/SALATALIK",
+        "calories": "8 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "TEREYAĞ(4)",
+        "calories": "215 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "BAL",
+        "calories": "76 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "SALAM",
+        "calories": "120 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "KAŞARLI OMLET (3,4)",
+        "calories": "238 kcal"
+      }
+    ]
+  },
+  "2026-01-02": {
+    "kahvalti": [
+      {
+        "category": "Kahvaltılık",
+        "name": "BEYAZ PEYNİR(4)",
+        "calories": "120 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "SİYAH ZEYTİN/YEŞİL ZEYTİN",
+        "calories": "40 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "DOMATES/SALATALIK",
+        "calories": "8 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "ÖRGÜ PEYNİR (4)",
+        "calories": "115 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "HELVA(1,4,14)",
+        "calories": "117 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "AÇMA (1,3,4,14)",
+        "calories": "381 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "SOSLU SOSİS TAVA",
+        "calories": "156 kcal"
+      }
+    ]
+  },
+  "2026-01-03": {
+    "kahvalti": [
+      {
+        "category": "Kahvaltılık",
+        "name": "BEYAZ   PEYNİR(4)",
+        "calories": "120 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "SİYAH ZEYTİN/YEŞİL ZEYTİN",
+        "calories": "40 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "DOMATES/SALATALIK",
+        "calories": "8 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "KAŞAR PEYNİR (4)",
+        "calories": "140 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "VİŞNE REÇELİ (12)",
+        "calories": "75 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "TEREYAĞ(4)",
+        "calories": "215 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "MENEMEN (3)",
+        "calories": "90 kcal"
+      }
+    ]
+  },
+  "2026-01-04": {
+    "kahvalti": [
+      {
+        "category": "Kahvaltılık",
+        "name": "BEYAZ PEYNİR(4)",
+        "calories": "120 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "SİYAH ZEYTİN/YEŞİL ZEYTİN",
+        "calories": "40 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "DOMATES/SALATALIK",
+        "calories": "8 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "LABNE PEYNİR (4)",
+        "calories": "50 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "BAL",
+        "calories": "76 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "ISPANAKLI KOL BÖREĞİ (1,3,4,14)",
+        "calories": "324 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "SADE OMLET (3)",
+        "calories": "183 kcal"
+      }
+    ]
+  },
+  "2026-01-05": {
+    "kahvalti": [
+      {
+        "category": "Kahvaltılık",
+        "name": "BEYAZ PEYNİR(4)",
+        "calories": "120 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "SİYAH ZEYTİN/YEŞİL ZEYTİN",
+        "calories": "40 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "DOMATES/SALATALIK",
+        "calories": "8 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "ÖRGÜ PEYNİR (4)",
+        "calories": "115 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "TAHİN PEKMEZ (14)",
+        "calories": "109 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "PATATES KIZARTMASI (1)",
+        "calories": "312 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "HAŞLANMIŞ YUMURTA (3)",
+        "calories": "78 kcal"
+      }
+    ]
+  },
+  "2026-01-06": {
+    "kahvalti": [
+      {
+        "category": "Kahvaltılık",
+        "name": "BEYAZ   PEYNİR(4)",
+        "calories": "120 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "SİYAH ZEYTİN/YEŞİL ZEYTİN",
+        "calories": "40 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "DOMATES/SALATALIK",
+        "calories": "8 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "KAŞAR PEYNİR (4)",
+        "calories": "140 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "KAKAOLU FINDIK EZMESİ (1,4,8,11)",
+        "calories": "147 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "SİMİT (1,3,4,14)",
+        "calories": "275 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "SOSLU SOSİS TAVA",
+        "calories": "156 kcal"
+      }
+    ]
+  },
+  "2026-01-07": {
+    "kahvalti": [
+      {
+        "category": "Kahvaltılık",
+        "name": "BEYAZ PEYNİR(4)",
+        "calories": "120 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "SİYAH ZEYTİN/YEŞİL ZEYTİN",
+        "calories": "40 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "DOMATES/SALATALIK",
+        "calories": "8 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "KREM PEYNİR (4)",
+        "calories": "65 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "SU BÖREĞİ(1,3,4)",
+        "calories": "358 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "ÇİLEK REÇELİ (12)",
+        "calories": "55 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "KAŞARLI OMLET (3,4)",
+        "calories": "238 kcal"
+      }
+    ]
+  },
+  "2026-01-08": {
+    "kahvalti": [
+      {
+        "category": "Kahvaltılık",
+        "name": "BEYAZ   PEYNİR(4)",
+        "calories": "120 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "SİYAH ZEYTİN/YEŞİL ZEYTİN",
+        "calories": "40 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "DOMATES/SALATALIK",
+        "calories": "8 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "LABNE PEYNİR (4)",
+        "calories": "50 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "TEREYAĞ(4)",
+        "calories": "215 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "BAL",
+        "calories": "76 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "SUCUKLU YUMURTA (3)",
+        "calories": "242 kcal"
+      }
+    ]
+  },
+  "2026-01-09": {
+    "kahvalti": [
+      {
+        "category": "Kahvaltılık",
+        "name": "BEYAZ PEYNİR(4)",
+        "calories": "120 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "SİYAH ZEYTİN/YEŞİL ZEYTİN",
+        "calories": "40 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "DOMATES/SALATALIK",
+        "calories": "8 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "ÖRGÜ PEYNİR (4)",
+        "calories": "115 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "TAHİN PEKMEZ (14)",
+        "calories": "109 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "POĞAÇA(1,3,4,14)",
+        "calories": "243 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "MENEMEN (3)",
+        "calories": "90 kcal"
+      }
+    ]
+  },
+  "2026-01-10": {
+    "kahvalti": [
+      {
+        "category": "Kahvaltılık",
+        "name": "BEYAZ   PEYNİR(4)",
+        "calories": "120 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "SİYAH ZEYTİN/YEŞİL ZEYTİN",
+        "calories": "40 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "DOMATES/SALATALIK",
+        "calories": "8 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "KREM PEYNİR (4)",
+        "calories": "65 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "HELVA(1,4,14)",
+        "calories": "117 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "SALAM",
+        "calories": "120 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "ISPANAKLI GÜL BÖREĞİ (1,3,4,14)",
+        "calories": "322 kcal"
+      }
+    ]
+  },
+  "2026-01-11": {
+    "kahvalti": [
+      {
+        "category": "Kahvaltılık",
+        "name": "BEYAZ PEYNİR(4)",
+        "calories": "120 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "SİYAH ZEYTİN/YEŞİL ZEYTİN",
+        "calories": "40 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "DOMATES/SALATALIK",
+        "calories": "8 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "KAŞAR PEYNİR (4)",
+        "calories": "140 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "VİŞNE REÇELİ (12)",
+        "calories": "75 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "HAŞLANMIŞ YUMURTA (3)",
+        "calories": "78 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "PEYNİRLİ KALEM BÖREK(1,3,4)",
+        "calories": "203 kcal"
+      }
+    ]
+  },
+  "2026-01-12": {
+    "kahvalti": [
+      {
+        "category": "Kahvaltılık",
+        "name": "BEYAZ PEYNİR(4)",
+        "calories": "120 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "SİYAH ZEYTİN/YEŞİL ZEYTİN",
+        "calories": "40 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "DOMATES/SALATALIK",
+        "calories": "8 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "LABNE PEYNİR (4)",
+        "calories": "50 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "KAKAOLU FINDIK EZMESİ (1,4,8,11)",
+        "calories": "147 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "AÇMA (1,3,4,14)",
+        "calories": "381 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "PEYNİRLİ OMLET (3,4)",
+        "calories": "205 kcal"
+      }
+    ]
+  },
+  "2026-01-13": {
+    "kahvalti": [
+      {
+        "category": "Kahvaltılık",
+        "name": "BEYAZ PEYNİR(4)",
+        "calories": "120 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "SİYAH ZEYTİN/YEŞİL ZEYTİN",
+        "calories": "40 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "DOMATES/SALATALIK",
+        "calories": "8 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "PATATESLİ GÜL BÖREĞİ (1,3,4,14)",
+        "calories": "326 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "TEREYAĞ(4)",
+        "calories": "215 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "BAL",
+        "calories": "76 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "SUCUKLU YUMURTA (3)",
+        "calories": "242 kcal"
+      }
+    ]
+  },
+  "2026-01-14": {
+    "kahvalti": [
+      {
+        "category": "Kahvaltılık",
+        "name": "BEYAZ PEYNİR(4)",
+        "calories": "120 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "SİYAH ZEYTİN/YEŞİL ZEYTİN",
+        "calories": "40 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "DOMATES/SALATALIK",
+        "calories": "8 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "ÖRGÜ PEYNİR (4)",
+        "calories": "115 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "TAHİN PEKMEZ (14)",
+        "calories": "109 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "HAŞLANMIŞ YUMURTA (3)",
+        "calories": "78 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "SOSLU SOSİS TAVA",
+        "calories": "156 kcal"
+      }
+    ]
+  },
+  "2026-01-15": {
+    "kahvalti": [
+      {
+        "category": "Kahvaltılık",
+        "name": "BEYAZ PEYNİR(4)",
+        "calories": "120 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "SİYAH ZEYTİN/YEŞİL ZEYTİN",
+        "calories": "40 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "DOMATES/SALATALIK",
+        "calories": "8 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "KREM PEYNİR (4)",
+        "calories": "65 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "SİMİT (1,3,4,14)",
+        "calories": "275 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "ÇİLEK REÇELİ (12)",
+        "calories": "55 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "MENEMEN (3)",
+        "calories": "90 kcal"
+      }
+    ]
+  },
+  "2026-01-16": {
+    "kahvalti": [
+      {
+        "category": "Kahvaltılık",
+        "name": "BEYAZ PEYNİR(4)",
+        "calories": "120 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "SİYAH ZEYTİN/YEŞİL ZEYTİN",
+        "calories": "40 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "DOMATES/SALATALIK",
+        "calories": "8 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "HAŞLANMIŞ YUMURTA (3)",
+        "calories": "78 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "HELVA(1,4,14)",
+        "calories": "117 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "SALAM",
+        "calories": "120 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "PATATES KIZARTMASI (1)",
+        "calories": "312 kcal"
+      }
+    ]
+  },
+  "2026-01-17": {
+    "kahvalti": [
+      {
+        "category": "Kahvaltılık",
+        "name": "BEYAZ PEYNİR(4)",
+        "calories": "120 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "SİYAH ZEYTİN/YEŞİL ZEYTİN",
+        "calories": "40 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "DOMATES/SALATALIK",
+        "calories": "8 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "KAŞAR PEYNİR (4)",
+        "calories": "140 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "KAKAOLU FINDIK EZMESİ (1,4,8,11)",
+        "calories": "147 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "SU BÖREĞİ(1,3,4)",
+        "calories": "358 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "HAŞLANMIŞ YUMURTA (3)",
+        "calories": "78 kcal"
+      }
+    ]
+  },
+  "2026-01-18": {
+    "kahvalti": [
+      {
+        "category": "Kahvaltılık",
+        "name": "BEYAZ PEYNİR(4)",
+        "calories": "120 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "SİYAH ZEYTİN/YEŞİL ZEYTİN",
+        "calories": "40 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "DOMATES/SALATALIK",
+        "calories": "8 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "ÖRGÜ PEYNİR (4)",
+        "calories": "115 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "TEREYAĞ(4)",
+        "calories": "215 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "VİŞNE REÇELİ (12)",
+        "calories": "75 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "SADE OMLET (3)",
+        "calories": "183 kcal"
+      }
+    ]
+  },
+  "2026-01-19": {
+    "kahvalti": [
+      {
+        "category": "Kahvaltılık",
+        "name": "BEYAZ PEYNİR(4)",
+        "calories": "120 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "SİYAH ZEYTİN/YEŞİL ZEYTİN",
+        "calories": "40 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "DOMATES/SALATALIK",
+        "calories": "8 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "KAŞAR PEYNİR (4)",
+        "calories": "140 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "TAHİN PEKMEZ (14)",
+        "calories": "109 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "POĞAÇA(1,3,4,14)",
+        "calories": "243 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "SUCUKLU YUMURTA (3)",
+        "calories": "242 kcal"
+      }
+    ]
+  },
+  "2026-01-20": {
+    "kahvalti": [
+      {
+        "category": "Kahvaltılık",
+        "name": "BEYAZ PEYNİR(4)",
+        "calories": "120 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "SİYAH ZEYTİN/YEŞİL ZEYTİN",
+        "calories": "40 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "DOMATES/SALATALIK",
+        "calories": "8 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "LABNE PEYNİR (4)",
+        "calories": "50 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "TEREYAĞ(4)",
+        "calories": "215 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "BAL",
+        "calories": "76 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "MENEMEN (3)",
+        "calories": "90 kcal"
+      }
+    ]
+  },
+  "2026-01-21": {
+    "kahvalti": [
+      {
+        "category": "Kahvaltılık",
+        "name": "BEYAZ PEYNİR(4)",
+        "calories": "120 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "SİYAH ZEYTİN/YEŞİL ZEYTİN",
+        "calories": "40 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "DOMATES/SALATALIK",
+        "calories": "8 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "ÖRGÜ PEYNİR (4)",
+        "calories": "115 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "ÇİLEK REÇELİ (12)",
+        "calories": "55 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "ISPANAKLI KOL BÖREĞİ (1,3,4,14)",
+        "calories": "324 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "SADE OMLET (3)",
+        "calories": "183 kcal"
+      }
+    ]
+  },
+  "2026-01-22": {
+    "kahvalti": [
+      {
+        "category": "Kahvaltılık",
+        "name": "BEYAZ PEYNİR(4)",
+        "calories": "120 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "SİYAH ZEYTİN/YEŞİL ZEYTİN",
+        "calories": "40 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "DOMATES/SALATALIK",
+        "calories": "8 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "KREM PEYNİR (4)",
+        "calories": "65 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "SİMİT (1,3,4,14)",
+        "calories": "275 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "KAKAOLU FINDIK EZMESİ (1,4,8,11)",
+        "calories": "147 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "SOSLU SOSİS TAVA",
+        "calories": "156 kcal"
+      }
+    ]
+  },
+  "2026-01-23": {
+    "kahvalti": [
+      {
+        "category": "Kahvaltılık",
+        "name": "BEYAZ PEYNİR(4)",
+        "calories": "120 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "SİYAH ZEYTİN/YEŞİL ZEYTİN",
+        "calories": "40 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "DOMATES/SALATALIK",
+        "calories": "8 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "KAŞAR PEYNİR (4)",
+        "calories": "140 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "TAHİN PEKMEZ (14)",
+        "calories": "109 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "HAŞLANMIŞ YUMURTA (3)",
+        "calories": "78 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "PATATES KIZARTMASI (1)",
+        "calories": "312 kcal"
+      }
+    ]
+  },
+  "2026-01-24": {
+    "kahvalti": [
+      {
+        "category": "Kahvaltılık",
+        "name": "BEYAZ PEYNİR(4)",
+        "calories": "120 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "SİYAH ZEYTİN/YEŞİL ZEYTİN",
+        "calories": "40 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "DOMATES/SALATALIK",
+        "calories": "8 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "ÖRGÜ PEYNİR (4)",
+        "calories": "115 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "VİŞNE REÇELİ (12)",
+        "calories": "75 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "TEREYAĞ(4)",
+        "calories": "215 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "KAŞARLI OMLET (3,4)",
+        "calories": "238 kcal"
+      }
+    ]
+  },
+  "2026-01-25": {
+    "kahvalti": [
+      {
+        "category": "Kahvaltılık",
+        "name": "BEYAZ PEYNİR(4)",
+        "calories": "120 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "SİYAH ZEYTİN/YEŞİL ZEYTİN",
+        "calories": "40 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "DOMATES/SALATALIK",
+        "calories": "8 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "SALAM",
+        "calories": "120 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "HELVA(1,4,14)",
+        "calories": "117 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "SU BÖREĞİ(1,3,4)",
+        "calories": "358 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "HAŞLANMIŞ YUMURTA (3)",
+        "calories": "78 kcal"
+      }
+    ]
+  },
+  "2026-01-26": {
+    "kahvalti": [
+      {
+        "category": "Kahvaltılık",
+        "name": "BEYAZ PEYNİR(4)",
+        "calories": "120 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "SİYAH ZEYTİN/YEŞİL ZEYTİN",
+        "calories": "40 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "DOMATES/SALATALIK",
+        "calories": "8 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "PATATESLİ GÜL BÖREĞİ (1,3,4,14)",
+        "calories": "326 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "TEREYAĞ(4)",
+        "calories": "215 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "BAL",
+        "calories": "76 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "MENEMEN (3)",
+        "calories": "90 kcal"
+      }
+    ]
+  },
+  "2026-01-27": {
+    "kahvalti": [
+      {
+        "category": "Kahvaltılık",
+        "name": "BEYAZ PEYNİR(4)",
+        "calories": "120 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "SİYAH ZEYTİN/YEŞİL ZEYTİN",
+        "calories": "40 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "DOMATES/SALATALIK",
+        "calories": "8 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "KAŞAR PEYNİR (4)",
+        "calories": "140 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "KAKAOLU FINDIK EZMESİ (1,4,8,11)",
+        "calories": "147 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "AÇMA (1,3,4,14)",
+        "calories": "381 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "SADE OMLET (3)",
+        "calories": "183 kcal"
+      }
+    ]
+  },
+  "2026-01-28": {
+    "kahvalti": [
+      {
+        "category": "Kahvaltılık",
+        "name": "BEYAZ PEYNİR(4)",
+        "calories": "120 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "SİYAH ZEYTİN/YEŞİL ZEYTİN",
+        "calories": "40 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "DOMATES/SALATALIK",
+        "calories": "8 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "ÖRGÜ PEYNİR (4)",
+        "calories": "115 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "ÇİLEK REÇELİ (12)",
+        "calories": "55 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "TEREYAĞ(4)",
+        "calories": "215 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "SUCUKLU YUMURTA (3)",
+        "calories": "242 kcal"
+      }
+    ]
+  },
+  "2026-01-29": {
+    "kahvalti": [
+      {
+        "category": "Kahvaltılık",
+        "name": "BEYAZ PEYNİR(4)",
+        "calories": "120 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "SİYAH ZEYTİN/YEŞİL ZEYTİN",
+        "calories": "40 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "DOMATES/SALATALIK",
+        "calories": "8 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "LABNE PEYNİR (4)",
+        "calories": "50 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "HELVA(1,4,14)",
+        "calories": "117 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "HAŞLANMIŞ YUMURTA (3)",
+        "calories": "78 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "PEYNİRLİ KALEM BÖREK(1,3,4)",
+        "calories": "203 kcal"
+      }
+    ]
+  },
+  "2026-01-30": {
+    "kahvalti": [
+      {
+        "category": "Kahvaltılık",
+        "name": "BEYAZ PEYNİR(4)",
+        "calories": "120 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "SİYAH ZEYTİN/YEŞİL ZEYTİN",
+        "calories": "40 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "DOMATES/SALATALIK",
+        "calories": "8 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "KAŞAR PEYNİR (4)",
+        "calories": "140 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "VİŞNE REÇELİ (12)",
+        "calories": "75 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "SİMİT (1,3,4,14)",
+        "calories": "275 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "SOSLU SOSİS TAVA",
+        "calories": "156 kcal"
+      }
+    ]
+  },
+  "2026-01-31": {
+    "kahvalti": [
+      {
+        "category": "Kahvaltılık",
+        "name": "BEYAZ PEYNİR(4)",
+        "calories": "120 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "SİYAH ZEYTİN/YEŞİL ZEYTİN",
+        "calories": "40 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "DOMATES/SALATALIK",
+        "calories": "8 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "SALAM",
+        "calories": "120 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "TAHİN PEKMEZ (14)",
+        "calories": "109 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "PATATES KIZARTMASI (1)",
+        "calories": "312 kcal"
+      },
+      {
+        "category": "Kahvaltılık",
+        "name": "HAŞLANMIŞ YUMURTA (3)",
+        "calories": "78 kcal"
+      }
+    ]
+  }
+}
